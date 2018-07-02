@@ -1,0 +1,25 @@
+body {
+  height:40%;
+  width:40%;
+  Margin-left:30%;
+  background-color: gray; 
+  font-family: sans-serif;
+  overflow: hidden;
+  border:1 px solid red;
+}
+.header{
+  height:50px;
+}
+.clicker{
+  height:200px;
+}
+.clicker-display, .clicker-button{
+  height:100px;
+}
+.clicker-button{
+  height:100px;
+}
+button{
+  height:50px;
+  width:50px;
+}
